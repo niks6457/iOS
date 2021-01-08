@@ -1,0 +1,6 @@
+framework module Pods_floating_Button {
+  umbrella header "Pods-floating Button-umbrella.h"
+
+  export *
+  module * { export * }
+}
