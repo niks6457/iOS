@@ -1,0 +1,16 @@
+PODS:
+  - ACTextField (1.0.2)
+
+DEPENDENCIES:
+  - ACTextField
+
+SPEC REPOS:
+  trunk:
+    - ACTextField
+
+SPEC CHECKSUMS:
+  ACTextField: 87ee4c2eb08fd78e96ccf6e138e7cb57d3d3ada1
+
+PODFILE CHECKSUM: eddc7eaf6aa03404732d83637370243bf9a67105
+
+COCOAPODS: 1.10.0

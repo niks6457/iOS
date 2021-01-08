@@ -1,0 +1,6 @@
+framework module Pods_textboxpod {
+  umbrella header "Pods-textboxpod-umbrella.h"
+
+  export *
+  module * { export * }
+}
